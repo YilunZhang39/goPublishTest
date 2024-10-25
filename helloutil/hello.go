@@ -1,6 +1,6 @@
 package helloutil
 
 func Hello() string {
-	hello := "Hello World v1.0.1"
+	hello := "Hello World v2.0.0"
 	return hello
 }
